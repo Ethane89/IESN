@@ -1,0 +1,8 @@
+create table Reparation (code_Reparation numeric(6), 
+                            date_Reparation date,
+                            duree numeric(3),
+                            etat varchar(25),  
+                            commentaire varchar(150),
+                            Matricule_Chef numeric(6));
+							
+							
